@@ -1,0 +1,74 @@
+body{padding: 0;
+margin: 0;}
+.cover{height: 78%;
+width: 100%;
+background-color: aqua}
+.coverPhoto{width: 100%;
+height: 100%;}
+.myPhpto{height:180px;
+width: 180px;
+border-radius:50%;
+position:absolute;
+top: 15%;
+left: 44%;
+}
+.text{position: absolute;
+top: 43%;
+left: 38%;
+color: aliceblue;
+font-size: 20px}
+
+.nam{
+    position: relative;
+    margin-left:18%;
+font-size:25;}
+.face{height: 60px;float: left;padding:6px}
+.insta{height: 60px;float: left;padding:6px}
+.linked{height: 60;float: left;padding:6px}
+.twitter{height: 60;float: left;padding:6px}
+.social{position: absolute;
+top: 73%;
+left: 41%;
+    
+}
+th{font-size: 2em;
+text-align: center;
+}
+.About{background-color:gainsboro;
+width: 70%;
+margin-left: 17%;
+    margin-top: 6%;
+    height: 30%;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+td{font-size:20px;padding: 10px}
+a{text-decoration: none;
+color: white;
+    transition: 0.3s;
+    font-size: 20px;
+}
+a:hover{background-color: #3e8e41;
+color: white;
+       
+
+
+
+}
+.link1{position: absolute;
+top: 6%;
+left: 85%;
+       
+
+    float: left;
+}
+.Aboutt:hover{ padding: 16px 36px;}
+.contact:hover{ padding: 16px 36px;}
+
+.link2{position: absolute;
+top: 6%;
+    left: 75%;}
+        
+
+ 
+
